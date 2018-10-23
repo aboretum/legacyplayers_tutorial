@@ -16,8 +16,8 @@ https://legacyplayers.com 是以方便怀旧服玩家社区为初衷而建立的
 
 ### 怎样从大页找到〈超越〉单次活动记录？
 
-我懒得翻群消息找老米头发的数据连接了，没问题，直接去大页 https://legacyplayers.com
-见图
+我懒得翻群消息找老米头发的数据连接了，没问题，直接去大页 https://legacyplayers.com 最上面一行，点"Raids"，得到活动记录列表，按照上传时间先后排列，有别的服务器，也有别的公会，见图
+
 ![img](pics/raids.png)
 
 ## 玩家页面
