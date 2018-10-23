@@ -31,6 +31,7 @@ https://legacyplayers.com 是以方便怀旧服玩家社区为初衷而建立的
 
 内容依次是
 
+统计类型 | 说明
 ------------ | -------------
 Damage Done | 伤害
 Damage Taken | 承受伤害
