@@ -37,7 +37,7 @@ Damage Done | 伤害
 Damage Taken | 承受伤害
 Healing | 治疗量
 Healing Taken | 接受治疗量
-Effective Healing Output | 治疗量
+Effective Healing Output | 有效治疗量
 Deaths | 死亡次数
 Threat | 仇恨
 Interrupts | 打断次数
